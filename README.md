@@ -12,8 +12,6 @@
 
 ### Skills:  Schematic Capture, PCB Layout Design, Hardware Debugging, Hardware-Software Co-design
 
----
-
 ##  Embedded Systems & Firmware
 
 ### Platforms: Microchip AVR, Renesas RA Series, Arduino
@@ -22,8 +20,6 @@
 
 ### Skills: Bare-Metal Programming, UART, SPI, I2C Communication, Interrupt Programming, Embedded Debugging
 
----
-
 ##  FPGA Development
 
 ### Tools: Intel Quartus Prime
@@ -31,8 +27,6 @@
 ### Languages: Verilog, SystemVerilog, VHDL
 
 ### Skills: RTL Design, FSM Design, Digital Logic Design, FPGA Verification
-
----
 
 ##  Digital Signal Processing
 
