@@ -1,8 +1,8 @@
 # Binh Truong Phuoc
 
-# I am a third-year undergraduate student at Ho Chi Minh University of Technology (HCMUT) and currently working as an Embedded Software Engineering Intern at FPT Telecom (FTEL).
+## I am a third-year undergraduate student at Ho Chi Minh University of Technology (HCMUT) and currently working as an Embedded Software Engineering Intern at FPT Telecom (FTEL).
 
-# My interests include Embedded Systems, PCB Design, Firmware Development, FPGA Design, and Digital Signal Processing.
+## My interests include Embedded Systems, PCB Design, Firmware Development, FPGA Design, and Digital Signal Processing.
 
 ---
 
