@@ -36,9 +36,7 @@
 
 ##  Digital Signal Processing
 
-### Tools
-
-* MATLAB
+### Tools: MATLAB
 
 ### Skills: Signal Analysis, DSP Fundamentals, Filter Design
 
