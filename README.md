@@ -1,8 +1,6 @@
 # BINH TRUONG PHUOC
 
-I am a third-year student currently gaining hands-on experience as an **Embedded Software Engineering Intern at FPT Telecom (FTEL)**. 
-
-I am deeply enthusiastic about embedded systems, specifically focusing on PCB design and hardware programming across various architectures, including **MCUs, DSPs, and FPGAs**.
+I am a third-year student currently gaining hands-on experience as an **Embedded Software Engineering Intern at FPT Telecom (FTEL)**. I'm deeply enthusiastic about embedded systems, specifically focusing on PCB design and hardware programming across various architectures, including **MCUs, DSPs, and FPGAs**.
 
 ---
 ### Tech Stack & Focus Areas
