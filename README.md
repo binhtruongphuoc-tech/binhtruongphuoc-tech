@@ -7,20 +7,20 @@ My interests include Embedded Systems, PCB Design, Firmware Development, FPGA De
 ---
 ### Tech Stack & Focus Areas
 
- Hardware & PCB Design
-      Tools: Altium Designer, Proteus
-      Skills: PCB Layout, Schematic Capture, Hardware-Software Co-design
+ #Hardware & PCB Design
+      #Tools: Altium Designer, Proteus
+      #Skills: PCB Layout, Schematic Capture, Hardware-Software Co-design
 
- Microcontrollers (MCU) & Firmware
-      Platforms:** Microchip (AVR), Renesas RA Series, Arduino
-      Languages: `C`, `Assembly`
+ #Microcontrollers (MCU) & Firmware
+      #Platforms:** Microchip (AVR), Renesas RA Series, Arduino
+      #Languages: `C`, `Assembly`
 
-Field-Programmable Gate Arrays (FPGA)
-      HDLs:`Verilog`, `SystemVerilog`, `VHDL`
-      Tools: Intel Quartus Prime (Altera)
+#Field-Programmable Gate Arrays (FPGA)
+      #HDLs:`Verilog`, `SystemVerilog`, `VHDL`
+      #Tools: Intel Quartus Prime (Altera)
 
- Digital Signal Processing (DSP)
-      Tools & Environments: MATLAB
+ #Digital Signal Processing (DSP)
+      #Tools & Environments: MATLAB
 ---
 
 ###  How to reach me
