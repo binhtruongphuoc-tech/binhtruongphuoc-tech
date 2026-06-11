@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ Embedded Systems & Firmware
+##  Embedded Systems & Firmware
 
 ### Platforms: Microchip AVR, Renesas RA Series, Arduino
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔲 FPGA Development
+##  FPGA Development
 
 ### Tools: Intel Quartus Prime
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 Digital Signal Processing
+##  Digital Signal Processing
 
 ### Tools
 
