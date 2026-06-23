@@ -10,4 +10,4 @@ I'm a third-year undergraduate at **Ho Chi Minh University of Technology (HCMUT)
 
 ###  Connect
 * GitHub: https://github.com/binhtruongphuoc-tech
-* Email: [binh.truongphuoc2501@hcmut.edu.vn](mailto:binh.truongphuoc2501@hcmut.edu.vn)
+* Email: [binh25012005@gmail.com](mailto:binh25012005@gmail.com)
